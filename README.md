@@ -1,8 +1,9 @@
 # CGRA 2020/2021
 
-| Name             | Number    | E-Mail             |
-| ---------------- | --------- | ------------------ |
-| Bruno Rosendo    | ---- | ----- |
-| Henrique Sousa   | ---- | ----- |
+## Contributors
+[Henrique Sousa (Self)](https://github.com/henriquecscode)  
+[Bruno Rosendo](https://github.com/BrunoRosendo)
 
-----
+## Project
+
+Multiple practical works (tp) and final project for Graphical Computation class
